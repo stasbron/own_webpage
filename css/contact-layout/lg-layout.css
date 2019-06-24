@@ -9,3 +9,6 @@ body {
     float:left;
 }
 
+.topnav{
+    z-index: 1;
+}
