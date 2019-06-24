@@ -1,0 +1,11 @@
+body {
+    max-width: 1250px;
+
+}
+
+.company-icon {
+    width:9%;
+    margin-top:10px;
+    float:left;
+}
+

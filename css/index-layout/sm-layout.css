@@ -1,0 +1,43 @@
+body {
+    max-width: 599px;
+}
+
+.photo-inner {
+    padding: 40px 0 0 20px;
+    text-align: center;
+
+}
+
+
+
+.personal-info {
+    width: 100%;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#personal-info1 {
+    display: none;
+}
+
+#personal-info2 {
+    border: 2px solid white;
+}
+
+.topnav{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+
+.topnav h1{
+margin: 0 auto;
+}
+
+
+.about {
+    text-align:center;
+}
+

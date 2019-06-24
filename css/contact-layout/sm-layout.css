@@ -1,0 +1,19 @@
+body {
+    max-width: 799px;
+
+}
+
+.topnav{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+
+.topnav h1{
+margin: 0 auto;
+}
+
+.company-icon {
+    margin-top:10px;
+}
+
