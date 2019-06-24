@@ -12,3 +12,7 @@ body {
 .topnav{
     z-index: 1;
 }
+
+#in-touch{
+    z-index: -1;
+}
